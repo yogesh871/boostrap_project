@@ -1,0 +1,23 @@
+ @media(max-width: 991px){
+    header{
+        background-color: white !important;
+    }
+ }
+
+ @media (min-width:768px){
+    .feature-title{
+        width: 80%;
+    }
+    .testimonial-title{
+        width: 80%;
+    }
+ }
+ @media (min-width:992px){
+    .feature-title{
+        width: 60%;
+    }
+    .testimonial-title{
+        width: 60%;
+    }
+ }
+ 
